@@ -4,7 +4,7 @@ If you know a bit about graphql you are in good shape to start, if you don't i w
 
 ## Here it is a quick rundown of the schema.
 
-```
+```graphql
 schema {
     query: Query
 }
@@ -55,7 +55,7 @@ Keep in mind if you change the path you should change your path in graphiql.html
 Now if you `go run main.go` you will be able to see that our server runs and if we go to `http://localhost:8080` you will be able to use graphiql
 
 Just paste this into the left panel and click the play arrow at the top left (`cmd + enter` is faster for those who have to pickup their pet from the hair salon in 5 min)
-```
+```graphql
 {
     hello
 }
