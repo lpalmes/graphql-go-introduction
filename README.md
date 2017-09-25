@@ -1,5 +1,7 @@
 # GraphQL Go Introduction
 
+>This introduction was stopped give that the graphql-go api was going through some [changes](https://github.com/neelance/graphql-go/issues/88) that make it easier to get started and really simple. As soon as is updated i will use it from scratch
+
 This repo is a small introduction where i will try to explain how to create a graphql server in go with [graphql-go](https://github.com/neelance/graphql-go) by [neelance](https://github.com/neelance), i hope that anybody that's looking into graphql and go could benefit from this.
 
 Before you start make sure you have go installed, and have graphql-go installed as well by running `go run github.com/neelance/graphql-go`
